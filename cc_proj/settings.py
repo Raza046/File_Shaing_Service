@@ -23,7 +23,7 @@ BASE_DIR = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
 SECRET_KEY = 'hpxt67q8qi!dfkgi40f6+n4zdyik6$fvo1p*m^#$7)w6sqbb9&'
 
 # SECURITY WARNING: don't run with debug turned on in production!
-DEBUG = True
+DEBUG = False
 
 ALLOWED_HOSTS = ['filetransfercloud.herokuapp.com', '127.0.0.1']
 
